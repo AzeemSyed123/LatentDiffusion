@@ -2,7 +2,7 @@
 
 **Colab notebook: Latent Diffusion Model for text-to-image generation with Hugging Face.**
 
-This repository contains a Google Colab notebook (`your_notebook_name.ipynb`) that demonstrates the implementation of a Latent Diffusion Model for generating images from text prompts. It utilizes the powerful Hugging Face `diffusers` library to provide an end-to-end example of text-to-image synthesis.
+This repository contains a notebook that demonstrates the implementation of a Latent Diffusion Model for generating images from text prompts. It utilizes the powerful Hugging Face `diffusers` library to provide an end-to-end example of text-to-image synthesis.
 
 ## Features
 
